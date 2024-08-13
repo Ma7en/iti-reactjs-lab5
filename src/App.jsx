@@ -8,7 +8,11 @@ import { useState } from "react";
 
 // import components
 import AppRoute from "./routes/Route";
+
+// store
 import store from "./store/store";
+
+// context
 import themeContext from "./context/themeContext";
 import languageContext from "./context/languageContext";
 
